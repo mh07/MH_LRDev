@@ -1,0 +1,115 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/tasks.json
+#	new file:   DevWebSdk.d.ts
+#	new file:   accounts.txt
+#	new file:   info.txt
+#	new file:   launch.json
+#	new file:   main.js
+#	new file:   parameters.yml
+#	new file:   results/devWebDB.db
+#	new file:   results_1757457454264657900/devWebDB.db
+#	new file:   results_1757457454264657900/logs/vuser_1.log
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr1.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr2.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr3.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr4.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr5.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr6.har
+#	new file:   results_1757457454264657900/snapshots/vuser_1/iteration_1/wr7.har
+#	new file:   results_1757522844514180800/devWebDB.db
+#	new file:   results_1757522844514180800/logs/vuser_1.log
+#	new file:   results_1757522844514180800/logs/vuser_2.log
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr6.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_1/wr7.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_2/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_2/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_2/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_2/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_2/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr6.har
+#	new file:   results_1757522844514180800/snapshots/vuser_1/iteration_3/wr7.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr6.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_1/wr7.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_2/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_2/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_2/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_2/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_2/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr1.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr2.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr3.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr4.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr5.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr6.har
+#	new file:   results_1757522844514180800/snapshots/vuser_2/iteration_3/wr7.har
+#	new file:   results_1757522954454981500/logs/vuser_1.log
+#	new file:   results_1757522954454981500/logs/vuser_2.log
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr6.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_1/wr7.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_2/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_2/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_2/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_2/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_2/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr6.har
+#	new file:   results_1757522954454981500/snapshots/vuser_1/iteration_3/wr7.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr6.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_1/wr7.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_2/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_2/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_2/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_2/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_2/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr1.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr2.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr3.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr4.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr5.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr6.har
+#	new file:   results_1757522954454981500/snapshots/vuser_2/iteration_3/wr7.har
+#	new file:   rts.yml
+#	new file:   scenario.yml
+#	new file:   transactions.yml
+#	new file:   tsconfig.json
+#
+# Untracked files:
+#	sla_rules.yml
+#
